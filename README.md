@@ -1,4 +1,4 @@
-# Secure Server Example
+# Secure Server Example ([Distributed Systems with NodeJS book](https://thomashunter.name/distributed-systems-with-nodejs) notes)
 
 ## Summary
 This example covers various topics like
